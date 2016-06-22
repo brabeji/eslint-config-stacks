@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-stacks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,8 @@
   "author": "stackscz",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb": "^9.0.1"
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-babel": "^3.3.0"
   },
   "peerDependencies": {
     "eslint": "^2.13.1"
