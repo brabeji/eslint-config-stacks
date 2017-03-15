@@ -9,6 +9,12 @@ module.exports = {
 		"flowtype"
 	],
 	"rules": {
+		"no-tabs": [
+			0
+		],
+		"react/jsx-filename-extension": [
+			0
+		],
 		"indent": [
 			2,
 			"tab",
