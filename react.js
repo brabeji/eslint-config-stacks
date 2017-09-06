@@ -70,14 +70,5 @@ module.exports = {
 		"es6": true,
 		"node": true,
 		"browser": true
-	},
-	"parserOptions": {
-		"ecmaFeatures": {
-			"jsx": true,
-			"experimentalObjectRestSpread": true,
-			"modules": true,
-			"destructuring": true,
-			"spread": true
-		}
 	}
 };
